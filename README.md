@@ -1,2 +1,2 @@
-# Firebase-C34-
-firebase c34
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
